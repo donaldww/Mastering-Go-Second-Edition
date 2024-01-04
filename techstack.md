@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 donaldww/Mastering-Go-Second-Edition is built on the following main stack:
+
 - [Golang](http://golang.org/) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -10,11 +11,13 @@ donaldww/Mastering-Go-Second-Edition is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 donaldww/Mastering-Go-Second-Edition is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -23,14 +26,15 @@ donaldww/Mastering-Go-Second-Edition is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [donaldww/Mastering-Go-Second-Edition](https://github.com/donaldww/Mastering-Go-Second-Edition)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|11/09/23 <br/>Report generated|
+|7<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -108,4 +112,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
